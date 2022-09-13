@@ -1,0 +1,27 @@
+h1{
+    text-align: left;
+    color: white;
+    background-color: black;
+}
+h2 {
+    color: white;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+h3{
+    
+    text-align: right;
+    text-decoration: underline;
+    background-color: cornflowerblue;
+}
+
+/*classes
+allows us to apply CSS to anything with the class
+we prefix calsses with a period*/
+/*id is strongets, then classes, then html*/
+
+
+.text-aqua{
+    color: aqua;
+}
