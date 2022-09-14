@@ -13,8 +13,8 @@ img {
     margin: 30px;
     background-color: rosybrown;
     display: flex;
-    justify-content: center;
-    gap: 3%;
+    justify-content: space-between;
+    /* gap: 3%; */
     
 }
 
@@ -23,8 +23,8 @@ img {
     margin: 30px;
     background-color: rgb(144, 144, 207);
     display: flex;
-    justify-content: center;
-    gap: 5%;
+    justify-content: space-around;
+    /* gap: 5%; */
     
     
 }
@@ -34,6 +34,6 @@ img {
     margin: 30px;
     background-color: antiquewhite;
     display: flex;
-    justify-content: center;
-    gap: 5%;
+    justify-content: space-between;
+    /* gap: 5%; */
 }
