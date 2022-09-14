@@ -1,0 +1,20 @@
+*{
+    margin: 0 auto;
+}
+
+.upper{
+    flex: 1;
+     height: 100px; 
+    
+    background-color: rgb(245, 245, 3);
+}
+.lower{
+    flex: 1;
+     height: 100px; 
+     background-color: rgb(49, 49, 253);
+}
+.flag {
+   height: 200px;
+    width: 300px;
+    border: 1px solid black; 
+}

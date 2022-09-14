@@ -38,6 +38,6 @@ img {
     /* gap%: 5; */
 }
 p {
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    
 }
