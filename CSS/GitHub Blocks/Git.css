@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    font-style: italic;
+    color: blueviolet
+}
+
+img {
+    height: 200px;
+}
+.col-1 {
+    padding: 10px;
+    margin: 30px;
+    background-color: rosybrown;
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+    
+}
+
+.col-2 {
+    padding: 10px;
+    margin: 30px;
+    background-color: rgb(144, 144, 207);
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    
+    
+}
+
+.col-3 {
+    padding: 10px;
+    margin: 30px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
